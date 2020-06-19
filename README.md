@@ -11,12 +11,12 @@ Followed [this](https://nicolas-van.github.io/easy-markdown-to-github-pages/) tu
 
 [Markdown User Guide](https://mkdocs.readthedocs.io/en/stable/user-guide/writing-your-docs/)
 
-1. Create `mkdocs.yml` file in the root of the repo
+1. Create `mkdocs.yml` file in the root of the repo:
 ```yml
 site_name: Site Name
 theme: readthedocs
 ```
-2. Create `docs` directory
+2. Create `docs` directory.
 3. Create project at Read the Docs.
 
 # Links
