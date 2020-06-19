@@ -9,6 +9,7 @@ Followed [this](https://nicolas-van.github.io/easy-markdown-to-github-pages/) tu
 # Read the Docs
 [Link](https://test120393.readthedocs.io/en/latest/)
 
+[Markdown User Guide](https://mkdocs.readthedocs.io/en/stable/user-guide/writing-your-docs/)
 
 # Links
 * [docs/EntityFramework](docs/EntityFramework.md) - 404 with .md or no .md
