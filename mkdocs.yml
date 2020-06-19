@@ -1,5 +1,2 @@
 site_name: Read the Docs Test - Juice by Justin
-nav:
-    - Home: index.md
-    - About: about.md
 theme: readthedocs
