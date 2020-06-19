@@ -19,6 +19,10 @@ theme: readthedocs
 2. Create `docs` directory.
 3. Create project at Read the Docs.
 
+Good reference for markdown Read the Docs is Automapper.
+* [Docs Repo](https://github.com/AutoMapper/AutoMapper/tree/master/docs)
+* [Read the Docs - Automapper](https://docs.automapper.org/en/stable/index.html)
+
 # Links
 * [docs/EntityFramework](docs/EntityFramework.md) - 404 with .md or no .md
 * [Copying](COPYING)
