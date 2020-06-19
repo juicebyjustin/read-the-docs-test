@@ -11,7 +11,7 @@ Followed [this](https://nicolas-van.github.io/easy-markdown-to-github-pages/) tu
 
 
 # Links
-* [EntityFramework](docs/EntityFramework.md)
+* [docs/EntityFramework](docs/EntityFramework.md) - 404 with .md or no .md
 * [Copying](COPYING)
 
 2
